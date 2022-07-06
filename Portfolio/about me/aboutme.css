@@ -44,11 +44,10 @@ p, ol{
 }
 
 .dashboard-link {
-    position: absolute;
     width: fit-content;
     height: 40px;
-    left: 41px;
-    top: 34px;
+    margin-left: 41px;
+    margin-top: 34px;
     
     font-family: 'Staatliches';
     font-style: normal;
@@ -61,11 +60,10 @@ p, ol{
     text-decoration: none;
     }
     .aboutMe-link{
-        position: absolute;
 width: fit-content;
 height: 40px;
-right: 41px;
-top: 34px;
+margin-right: 41px;
+margin-top: 34px;
 
 font-family: 'Staatliches';
 font-style: normal;
