@@ -138,7 +138,7 @@ footer{
     height: 95vh;
     width: 100%;
 }
-footer p{
+footer span{
     color: rgb(0, 0, 0);
     font-family: poppins;
     font-size: 15px;
@@ -148,7 +148,7 @@ footer p{
     width: 100%;
 }
 @media screen and (max-width: 600px){
-    footer p{
+    footer span{
         font-size: 4vw;
     }
 }
