@@ -39,6 +39,10 @@ p, ol{
     line-height: 35px;
     font-family: Montserrat;
 }
+@media screen and (max-width: 500px){
+    p,ol{width: 90%; line-height: 25px; font-size: 4vh}
+}
+
 .dashboard-link {
     position: absolute;
     width: fit-content;
@@ -135,7 +139,7 @@ transform-origin: bottom left;
 footer{
     height: 95vh;
     position: absolute;
-    top: 250vh;
+    bottom:0;
     width: 100%;
 }
 footer p{
