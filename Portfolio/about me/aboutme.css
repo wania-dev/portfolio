@@ -138,8 +138,6 @@ transform-origin: bottom left;
 }
 footer{
     height: 95vh;
-    position: absolute;
-    bottom:0;
     width: 100%;
 }
 footer p{
