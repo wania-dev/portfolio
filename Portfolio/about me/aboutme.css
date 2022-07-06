@@ -158,8 +158,7 @@ footer p{
 .social-media{
     width: 100%;
     text-align: center;
-    position: absolute;
-    top: 43vh;
+    margin-top: 43vh;
 }
 .fa {
     padding: 20px;
@@ -196,25 +195,23 @@ footer p{
     color: black;
   }
 footer img{
-    position: absolute;
     width: 7vw;
-    top: 30vh;
-    left: 46vw;
+    margin-top: 30vh;
+    margin-left: 46vw;
 }
 #footer-link1{
-    left: 47vw;
-    top: 62vh;
+    margin-left: 47vw;
+    margin-top: 62vh;
 }
 #footer-link2{
-    left: 47.5vw;
-    top: 55vh;
+    margin-left: 47.5vw;
+    margin-top: 55vh;
 }
 .dashboard-link {
-    position: absolute;
     width: fit-content;
     height: 40px;
-    left: 41px;
-    top: 34px;
+    margin-left: 41px;
+    margin-top: 34px;
     
     font-family: 'Staatliches';
     font-style: normal;
@@ -227,11 +224,10 @@ footer img{
     text-decoration: none;
     }
     .aboutMe-link{
-        position: absolute;
 width: fit-content;
 height: 40px;
-right: 41px;
-top: 34px;
+margin-right: 41px;
+margin-top: 34px;
 
 font-family: 'Staatliches';
 font-style: normal;
